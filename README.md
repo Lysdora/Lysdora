@@ -1,6 +1,9 @@
 # Hi there! I'm Safae Chkirate,
 ## I prefer to go by the name Murloc Craft! 👋
 
+![adorable murloc](murloc2.jpg)
+
+
 <!--
 **Lysdora/Lysdora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +34,6 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 
-Twitter: [@murloc_craft](https://twitter.com/murloc_craft)
+- Twitter: [@murloc_craft](https://twitter.com/murloc_craft)
+- Dev.To: [@murloc-craft](https://dev.to/murloc-craft)
+- Medium: [@murloc-craft](https://medium.com/@murloc-craft)
