@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hi there! I'm Safae Chkirate,
+## I prefer to go by the name Murloc Craft! 👋
 
 <!--
 **Lysdora/Lysdora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Skills
+- HTML
+- CSS
+- JavaScript (In progress)
+
+## 🌱 I’m currently learning :
+- JavaScript
+
+### 🔭 I’m currently working on
+
+- multiple solo projects to improve my comprehension of JavaScript functions.
+
+
+## 📫 How to reach me:
+
+Twitter: [@murloc_craft](https://twitter.com/murloc_craft)
