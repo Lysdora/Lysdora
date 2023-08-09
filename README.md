@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 - JavaScript (In progress)
 
 ## 🌱 I’m currently learning :
-- JavaScript
+- JavaScript 70%
+- SASS
+- Bootstrap
 
 ### 🔭 I’m currently working on
 
