@@ -1,41 +1,33 @@
-# Hi there! I'm Safae Chkirate,
-## I prefer to go by the name Murloc Craft! 👋
-
+# Hi there! I'm Murloc Craft! 👋
 ![adorable murloc](murloc2.jpg)
 
-
-<!--
-**Lysdora/Lysdora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## My Skills
-- HTML
-- CSS
-- JavaScript (In progress)
+- Godot Engine
+- Pixel Art
+- GDScript
+- Game Design
+- HTML/CSS (Background)
+- JavaScript (Background)
 
-## 🌱 I’m currently learning :
-- JavaScript 70%
-- SASS
-- Bootstrap
+## 🌱 I'm currently learning:
+- Advanced Godot techniques
+- 2D Game Development
+- Pixel Art Animation
+- Game mechanics implementation
 
-### 🔭 I’m currently working on
-
-- multiple solo projects to improve my comprehension of JavaScript functions.
-
+### 🔭 I'm currently working on:
+- A top-down RPG inspired by Zelda using Godot Engine
+- Pixel art assets for my games
+- Building game mechanics and systems from scratch
 
 ## 📫 How to reach me:
-
-- Twitter: [@murloc_craft](https://twitter.com/murloc_craft)
+- Website/Blog: [murloc-craft.com](https://www.murloc-craft.com/)
+- Twitter/X: [@murloc_craft](https://x.com/murloc_craft)
 - Dev.To: [@murloc-craft](https://dev.to/murloc-craft)
-- Medium: [@murloc-craft](https://medium.com/@murloc-craft)
+
+## 🎮 My Game Dev Journey
+Formerly a web developer, I've shifted my focus to game development using Godot Engine. I'm passionate about creating immersive 2D pixel art games and bringing unique worlds to life!
+
+<!--
+**Lysdora/Lysdora** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
